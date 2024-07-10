@@ -14,7 +14,11 @@
 		},
 		{
 			"Name": "MoviePipelineMaskRenderPass",
-			"Enabled": false
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
