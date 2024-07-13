@@ -1,0 +1,15 @@
+Decoration/T_BlackAlder_Decoration_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Decoration/T_BlackAlder_Decoration_Mask.uasset filter=lfs diff=lfs merge=lfs -text
+Trunk/Trunk_01/T_BlackAlder_Trunk_01_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+Trunk/Trunk_02/T_BlackAlder_Trunk_02_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+TwoSided/Summer/T_BlackAlder_TwoSided_Summer_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+TwoSided/Winter/T_BlackAlder_TwoSided_Winter_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+TwoSided/Winter/T_BlackAlder_TwoSided_Winter_Mask.uasset filter=lfs diff=lfs merge=lfs -text
+Decoration/T_BlackAlder_Decoration_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+Trunk/Trunk_01/T_BlackAlder_Trunk_01_Mask.uasset filter=lfs diff=lfs merge=lfs -text
+Trunk/Trunk_01/T_BlackAlder_Trunk_01_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Trunk/Trunk_02/T_BlackAlder_Trunk_02_Mask.uasset filter=lfs diff=lfs merge=lfs -text
+TwoSided/Summer/T_BlackAlder_TwoSided_Summer_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+TwoSided/Winter/T_BlackAlder_TwoSided_Winter_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+Trunk/Trunk_02/T_BlackAlder_Trunk_02_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+TwoSided/Summer/T_BlackAlder_TwoSided_Summer_Mask.uasset filter=lfs diff=lfs merge=lfs -text
