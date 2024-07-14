@@ -1,0 +1,4 @@
+Content/Megascans/3D_Assets/IcelandicMossyRock/SM_IcelandicMossyRock.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Megascans/3D_Assets/IcelandicTerrain/SM_IcelandicTerrain_High.uasset filter=lfs diff=lfs merge=lfs -text
+IcelandicMossyRock/SM_IcelandicMossyRock.uasset filter=lfs diff=lfs merge=lfs -text
+IcelandicTerrain/SM_IcelandicTerrain_High.uasset filter=lfs diff=lfs merge=lfs -text
