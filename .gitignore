@@ -3,3 +3,5 @@ Intermediate
 DerivedDataCache
 Binaries
 *.sh
+*.zip
+/Scripts
